@@ -13,7 +13,7 @@ To follow this tutorial, you will need:
 
 1. search for botfather
 2. /newbot
-   - chatgpt88
+   - telebot1373
    - chatgpt88_bot
 
    Now click on the url
@@ -38,6 +38,6 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 TELEGRAM_BOT_TOKEN=xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
-5. Run `python src/chatgpt.py` to start the bot
+5. Run `python telebot.py` to start the bot
 6. Open Telegram and search for your bot username
 7. Start a conversation with your bot and enjoy!
